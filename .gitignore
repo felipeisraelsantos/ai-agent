@@ -1,0 +1,6 @@
+/node_modules
+/project-ref
+/ai-context
+.env
+.example-jira.json
+/generated-tests
